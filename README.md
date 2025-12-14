@@ -13,8 +13,6 @@
 💻 Enjoy working on projects, hackathons, and problem-solving
 
 📊 Love turning data into insights
-
-🌱 Currently learning advanced ML concepts & real-world applications
 ________________________________________________________________________________________
 🛠️ Skills & Tools:
 
