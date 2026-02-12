@@ -1,37 +1,66 @@
+👋 Hi, I'm Raunak Saha  
 
+🎓 B.Tech Student | Artificial Intelligence & Data Science  
+🚀 Hackathon Builder | AI Developer | Full-Stack Problem Solver  
 
-👋 Hi, I’m Raunak Saha
+I build real-world, demo-ready solutions using AI, Web, and Mobile technologies.
+Focused on creating practical systems — not just theory.
 
-🎓 B.Tech Student | Artificial Intelligence & Data Science
-💡 Curious about data, algorithms, and building smart solutions
-🚀 Always learning, experimenting, and improving
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 What I Build
 
-🧠 About Me
+🔹 Offline-first Attendance System (Tauri + SQLite + Sync Layer)
+🔹 Native Android APK apps using Flutter (No external backend)
+🔹 Unity-based game & simulation concepts
+🔹 AI-powered routing & intent classification systems
+More comming soon......
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠 Tech Stack
 
-🔍 Interested in Machine Learning, Data Science & AI, Software Development
+💻 Languages:
+Python • JavaScript • Dart • SQL
 
-💻 Enjoy working on projects, hackathons, and problem-solving
+🌐 Web:
+HTML • CSS • JavaScript (ES Modules)  
+Node.js (Learning)  
+Firebase (Auth, Firestore, Storage)  
+Supabase
+Google API
+OpenAI API
 
-📊 Love turning data into insights
-________________________________________________________________________________________
-🛠️ Skills & Tools:
+🤖 AI & Data Science:
+NumPy • Pandas • Machine Learning Concepts  
+Intent Classification Systems  
+LLM API Integration  
+Data Analysis & Experimentation  
 
-Languages: Python
+📱 Mobile:
+Flutter (Android-first APK development)  
+Local DB (Hive / Sqflite)  
+Offline-first architecture  
 
-AI/DS: NumPy, Pandas, Django, FLask
+🖥 Desktop:
+Tauri + FastAPI + SQLite  
 
-Web: HTML, CSS, JavaScript
+🎮 Game Dev:
+Unity (Random Map Generation, Simulation Ideas)
 
-Tools: Git, GitHub, VS Code, Jupyter Notebook
-________________________________________________________________________________________
-📌 What You’ll Find Here:
+🛠 Tools:
+Git • GitHub • VS Code • Jupyter Notebook  
 
-📈 Data analysis notebooks
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 What You'll Find Here
 
-🧪 Practice code & experiments
+📊 Data analysis notebooks  
+🧪 AI experiments & ML practice  
+🏆 Hackathon-ready full-stack projects  
+📱 Android APK-based systems  
+🎮 Simulation & game prototypes  
+⚡ Real-world problem solving builds  
 
-🏆 Hackathon & college projects
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-________________________________________________________________________________________
+💭 Philosophy:
+"Learning never stops in tech — build, break, optimize, scale."
 
-⭐ “Learning never stops in tech — build, break, and build again.”
+🔥 2026 Goal: Become a skilled Full-Stack Developer with strong real-world project experience.
