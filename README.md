@@ -123,15 +123,7 @@ Featured projects
 </tr>
 </table>More to explore
 <details>
-<summary><strong>Open the project shelf — apps, AI experiments, and games</strong></summary>
-Project	What I'm building	Explore
-CodeLens	A visual learning workspace for exploring tokens, ASTs, compilation, and execution.	Code · App
-EchoBharat	Offline multilingual Android speech and BLE mesh experiments; security hardening is in progress.	Code & status
-AI XBRL Studio	A document-processing pipeline that maps financial statements into XBRL and generates reports.	Code
-Your Manager	A productivity hub combining a local vault, expense tracking, GitHub activity, and browser tabs.	Code
-SnapOdr	An Android staff app for table orders, order notes, and bill discounts.	APK releases
-Rogue Signal	A first-person social deduction game for 4–10 players, with online and LAN modes.	Game & downloads
-PandaOS	A custom Linux distribution build system, currently in development.	Code
+
 
 
 </details><p align="center">
