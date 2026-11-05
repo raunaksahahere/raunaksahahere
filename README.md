@@ -12,7 +12,7 @@ Decorative SVGs are served by external services.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=42&amp;lines=Developer+tools+and+language+design.;Applied+AI+and+full-stack+systems.;Offline-first+mobile+and+desktop+apps." width="700" alt="My interests: developer tools, language design, applied AI, and offline-first apps" />
 </p><p align="center">
   <a href="https://github.com/raunaksahahere?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Explore my projects on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/raunak-saha-855375399/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/raunak-saha-33aa46406/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:raunaksaha22@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=F8FAFC" alt="Email Raunak" /></a>
 </p><p align="center">
   <a href="#about-me">About</a> &nbsp;·&nbsp;
@@ -125,7 +125,7 @@ Featured projects
   I'm open to hackathons and collaborations around developer tools, applied AI, and useful apps.<br /><br />
   <a href="mailto:raunaksaha22@gmail.com"><strong>Let's talk ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/raunak-saha-855375399/">Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/raunak-saha-33aa46406/">Connect on LinkedIn</a>
 </p><p align="center">
   <em>“Learning never stops in tech — build, break, optimize, scale.”</em>
 </p>
