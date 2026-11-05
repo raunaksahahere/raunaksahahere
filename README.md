@@ -18,7 +18,6 @@ Decorative SVGs are served by external services.
   <a href="#about-me">About</a> &nbsp;·&nbsp;
   <a href="#featured-projects">Featured projects</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
-  <a href="#more-to-explore">More projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/raunaksahahere?tab=overview">Activity ↗</a>
 </p>About me
 I'm Raunak, a B.Tech student in Artificial Intelligence & Data Science, a hackathon builder, and a developer who enjoys working across the stack.
@@ -121,12 +120,7 @@ Featured projects
 <p>Git · GitHub · Docker · Linux · VS Code<br />Unity prototypes · Figma · Jupyter</p>
 </td>
 </tr>
-</table>More to explore
-<details>
-
-
-
-</details><p align="center">
+</table><p align="center">
   <strong>Have an idea worth building?</strong><br />
   I'm open to hackathons and collaborations around developer tools, applied AI, and useful apps.<br /><br />
   <a href="mailto:raunaksaha22@gmail.com"><strong>Let's talk ↗</strong></a>
